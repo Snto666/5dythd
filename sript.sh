@@ -1,4 +1,4 @@
 ls
 touch miprimerarchivo
-echo "bienoq" > miprimerarchivo
+echo "comostas" > miprimerarchivo
 cat miprimerarchivo
